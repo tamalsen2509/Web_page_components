@@ -1,0 +1,24 @@
+/*  Components design*/
+
+@import url("avatar.css"); 
+@import url("button.css");
+@import url("components_card.css");
+@import url("badge.css");
+@import url('/css/banner.css');
+@import url('tab.css');
+@import url('/css/product_design.css');
+
+
+.container{
+    width: auto;
+}
+
+.section{
+    margin: 10px;    
+}
+
+.section h2{
+    font-weight: bold;
+    color: black;
+} 
+

@@ -1,0 +1,16 @@
+.badge {
+    display: inline-block;
+    padding: 8px 10px;
+    font-size: 75%;
+    font-weight: 800;
+    line-height: 1;
+    /* text-align: center; */
+    white-space: nowrap;
+    /* vertical-align: baseline; */
+    border-radius: 24px;
+    background-color: red;
+    color: whitesmoke;
+    position: relative;
+    top: -22px;
+    left: -19px;
+}
