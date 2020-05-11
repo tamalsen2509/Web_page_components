@@ -1,5 +1,7 @@
 /*  Components design*/
 
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap');
+
 @import url("avatar.css"); 
 @import url("button.css");
 @import url("components_card.css");
@@ -9,16 +11,27 @@
 @import url('/css/product_design.css');
 
 
+.body {
+ font-family: 'Jost', sans-serif;
+}
+
+
 .container{
     width: auto;
 }
 
-.section{
+h1 {
+    opacity: 0.9;
+    text-decoration: underline;
+}
+
+#section{
     margin: 10px;    
 }
 
-.section h2{
+#section h2{
     font-weight: bold;
     color: black;
+    opacity: 0.8;
 } 
 
